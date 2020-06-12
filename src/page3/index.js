@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Link } from 'react-router-dom';
 
-import './css/set.scss';
+import './css/set.css';
 import { SetSystem } from './component/system';
 import { SetPerson } from './component/person';
 import { SetTime} from './component/time';
